@@ -1,7 +1,7 @@
 ## Some stats
 <section align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tvzzzz&hide=contribs&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvzzzz&theme=github_dark&exclude_repo=Projeto&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OtavioAugustoMonteiroDiscini&hide=contribs&theme=github_dark&show_icons=true&custom_title=GitHub%20Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioAugustoMonteiroDiscini&theme=github_dark&exclude_repo=Projeto&layout=compact"/>
 </section>
 
 ## Languages, frameworks and tools
